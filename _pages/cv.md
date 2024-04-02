@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[See CV here](https://drive.google.com/file/d/1aLqU3FevBkIlb3gAu_45CBBFNLxl26iF/view?usp=sharing)
+
 Education
 ======
 * B.S. in Mathematical Engineering, PUC Chile, 2009
