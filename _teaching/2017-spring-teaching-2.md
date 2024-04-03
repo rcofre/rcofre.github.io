@@ -11,11 +11,4 @@ location: "Geneva, Switzerland"
 Méthodes Mathématiques pour Physiciens (TD)
 Méthodes Mathématiques de la mécanique classique (TD)
 
-Heading 1
-======
 
-Algo 2
-======
-
-Heading 3
-======

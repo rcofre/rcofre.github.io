@@ -10,8 +10,6 @@ location: "Nice, France"
 
 Analyse de Signaux (TP)
 
-Heading 1
-======
 
 
 
