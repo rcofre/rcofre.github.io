@@ -10,7 +10,6 @@ venue: 'PLoS Comput Biol 17(2): e1008737'
 ---
 
 [Download paper here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008737)
-
 [Code](https://github.com/vandal-uv/Neuromod2020)
 
 

@@ -10,7 +10,6 @@ venue: 'Entropy 23(155)'
 ---
 
 [Download paper here](https://www.mdpi.com/1099-4300/23/2/155)
-
 [Code](https://github.com/brincolab/Linear-response)
 
 Abstract:

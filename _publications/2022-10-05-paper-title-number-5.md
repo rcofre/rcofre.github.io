@@ -10,7 +10,6 @@ venue: 'PLoS ONE 16(7): e0251647'
 ---
 
 [Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251647)
-
 [Code](https://github.com/brincolab/NeuralEnsembles)
 
 

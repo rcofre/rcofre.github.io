@@ -10,7 +10,6 @@ venue: 'Brain Connectivity, Vol. 11, No. 9'
 ---
 
 [Download paper here](https://www.liebertpub.com/doi/10.1089/brain.2020.0982)
-
 [Code](https://github.com/brincolab/High-Order-interactions)
 
 Abstract:

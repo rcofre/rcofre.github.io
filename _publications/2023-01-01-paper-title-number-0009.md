@@ -10,7 +10,6 @@ venue: 'Sci Rep 13, 6244'
 ---
 
 [Download paper here](https://www.nature.com/articles/s41598-023-32649-7)
-
 [Code](https://github.com/paulodder/dmf_entropy)
 
 
