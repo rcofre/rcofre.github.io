@@ -1,17 +1,41 @@
 ---
-title: "Neural mass modeling for the masses: Democratizing access to whole-brain biophysical modeling with FastDMF"
+title: "Transcranial direct current stimulation modulates primate brain
+dynamics across states of consciousness"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-01b
+#permalink: /publication/2009-10-01-paper-title-number-0001
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: December 2024
-venue: 'Network Neuroscience 2024; 8 (4): 1590-1612'
+date: October 2024
+venue: 'eLife 13:RP101688'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[Download paper here](https://direct.mit.edu/netn/article/8/4/1590/123888)
-[Code](https://gitlab.com/concog/fastdmf)
+[Download paper here](https://elifesciences.org/reviewed-preprints/101688#tab-content)
+[Code](https://github.com/Krigsa/phase_coherence_kmeans)
 
 
 Abstract:
-Different whole-brain computational models have been recently developed to investigate hypotheses related to brain mechanisms. Among these, the Dynamic Mean Field (DMF) model is particularly attractive, combining a biophysically realistic model that is scaled up via a mean-field approach and multimodal imaging data. However, an important barrier to the widespread usage of the DMF model is that current implementations are computationally expensive, supporting only simulations on brain parcellations that consider less than 100 brain regions. Here, we introduce an efficient and accessible implementation of the DMF model: the FastDMF. By leveraging analytical and numerical advances-including a novel estimation of the feedback inhibition control parameter and a Bayesian optimization algorithm-the FastDMF circumvents various computational bottlenecks of previous implementations, improving interpretability, performance, and memory use. Furthermore, these advances allow the FastDMF to increase the number of simulated regions by one order of magnitude, as confirmed by the good fit to fMRI data parcellated at 90 and 1,000 regions. These advances open the way to the widespread use of biophysically grounded whole-brain models for investigating the interplay between anatomy, function, and brain dynamics and to identify mechanistic explanations of recent results obtained from fine-grained neuroimaging recordings.
+Background: Transcranial direct current stimulation (tDCS) is a non-invasive
+neuromodulation approach that has been reported to perturb task activity and to benefit
+patients with a variety of diseases. Nevertheless, the effects of tDCS on brain dynamics
+and transitions in brain patterns across states of consciousness remain poorly
+understood.
+Objective: Here, we investigated the modulatory effect of prefrontal cortex (PFC) tDCS
+on brain dynamics, both in the awake state and during anesthesia-induced loss of
+consciousness in non-human primates.
+Methods: We acquired functional magnetic resonance imaging (fMRI) data before,
+during, and after the application of high-density tDCS (HD-tDCS) utilizing a prefrontaloccipital montage with two electrodes. In the awake state, macaques received either
+anodal or cathodal PFC stimulation. Under anesthesia, macaques underwent two
+consecutive anodal PFC stimulations of increasing intensity. Dynamical functional
+connectivity was measured using fMRI, and the resulting connectivity matrices were
+clustered into distinct 'brain patterns'.
+Results: We found that cathodal PFC HD-tDCS robustly disrupted the rich dynamic
+repertoire of brain patterns of the awake state. It increased the brain structure-function
+correlation, decreased Shannon entropy, and strongly favored Markov chain transition
+probabilities towards patterns closest to anatomy. Under anesthesia, 2 mA anodal PFC
+HD-tDCS significantly changed the distribution of brain patterns and reduced the
+structure-function correlation.
+Conclusion: Our findings offer compelling evidence that prefrontal tDCS induces a
+striking modification in the fMRI-based dynamic organization of the brain across varying
+states of consciousness. This contributes to an enhanced understanding of the neural
+mechanisms underlying tDCS neuromodulation.
