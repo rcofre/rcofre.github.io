@@ -38,6 +38,10 @@ Work experience
   * Laboratoire de physique de l’École normale supérieure, Paris
   * Supervisor: Thierry Mora
 
+  * INRIA ISFP, From February 2025
+  * CRONOS TEAM, INRIA Inria Centre at Université Côte d'Azur. 
+  
+
 Publications
 ======
   <ul>{% for post in site.publications %}

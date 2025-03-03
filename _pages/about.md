@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a scientist interested in the fields of neuroscience and mathematical modeling of the brain. I have been always  fascinated by the intricacies of the human brain and how it gives rise to our consciousness, thoughts, emotions, and behaviors.
+I am a scientist at the Inria Centre at Université Côte d'Azur, specializing in neuroscience and the mathematical modeling of the brain. My research explores the intricate mechanisms that shape cognition, emotions, and behavior, seeking to unravel how neural networks give rise to consciousness.
 
-I've worked on numerous research projects focused on developing mathematical models that can help explain the complex interactions between brain cells and networks, and understanding how collective behaviors emerge from interactions among many neurons.
+Driven by a fascination with the brain’s complexity, I have worked on numerous projects developing mathematical models that capture the dynamic interactions between neurons and large-scale brain networks. By bridging theory and experimentation, my work aims to shed light on the fundamental principles governing brain function and emergent collective behaviors
