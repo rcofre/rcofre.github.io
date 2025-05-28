@@ -34,11 +34,11 @@ Work experience
   * Institute of Neuroscience (NeuroPSI), Paris-Saclay University, CNRS, Gif-sur-Yvette
   * Supervisor: Alain Destexhe
 
-* Postdoc ENS, From June 2021
+* Postdoc ENS, From June 2024
   * Laboratoire de physique de l’École normale supérieure, Paris
   * Supervisor: Thierry Mora
 
-  * INRIA ISFP, From February 2025
+* INRIA ISFP, From February 2025
   * CRONOS TEAM, INRIA Inria Centre at Université Côte d'Azur. 
   
 
