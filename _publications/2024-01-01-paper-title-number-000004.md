@@ -3,9 +3,9 @@ title: "Convergent transcriptomic and connectomic controllers of information int
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-0001
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: jan 2026
+date: Jan 2026
 venue: 'Nat Hum Behav (2026)'
-#paperurl: 'https://www.nature.com/articles/s43588-025-00796-8
+#paperurl: 'https://www.nature.com/articles/s41562-025-02381-5
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
