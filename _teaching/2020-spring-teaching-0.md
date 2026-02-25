@@ -9,8 +9,10 @@ location: "Nice, France"
 ---
 
 Analyse de Signaux (TP) (2012)
-Introduction to Modeling in Neuroscience and Cognition, Msc. Modeling for Neuronal and Cognitive systems (2024-2025)
-
+Introduction to Modeling in Neuroscience and Cognition, Msc. Modeling for Neuronal and Cognitive systems (2024-2025-2026)
+Scientific Communication, Msc. Modeling for Neuronal and Cognitive systems (2025-2026)
+Digital Expertise I, Msc. MSc SmartEdTech (2025-2026)
+Digital Expertise II, Msc. MSc SmartEdTech (2025-2026)
 
 
 
