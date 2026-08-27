@@ -15,8 +15,8 @@ Education
 ======
 * B.S. in Mathematical Engineering, PUC Chile, 2009 
 * B.S. in Aesthetics, PUC Chile, 2009
-* M.S. Computational Biology and Biomedicine, Ecole Polytechnique Universitaire de Nice Sophia Antipolis, France , 2010 to 2011
-* Ph.D in Sciences, Specialty: Control, Signal and Image Processing, University of  Nice- Sophia-Antipolis, 2014. Supervisor: Bruno Cessac
+* M.S. Computational Biology and Biomedicine, Ecole Polytechnique Universitaire Université Côte d'Azur, France , 2010 to 2011
+* Ph.D in Sciences, Specialty: Control, Signal and Image Processing, Université Côte d'Azur, 2014. Supervisor: Bruno Cessac
 * HDR, University of Paris Saclay, 2023.
 
 Work experience
@@ -41,12 +41,6 @@ Work experience
 * INRIA ISFP, From February 2025
   * CRONOS TEAM, INRIA Inria Centre at Université Côte d'Azur. 
   
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
