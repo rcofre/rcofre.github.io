@@ -6,17 +6,18 @@ permalink: /collaborators/
 
 # List of collaborators:
 
--[Bruno Cessac (France)](https://team.inria.fr/biovision/bruno-cessac/)
+
+
+
+-[Andrea Luppi (U.K)](https://scholar.google.com/citations?user=oHHFZY4AAAAJ&hl=en)
+
+-[Zirui Huang (U.S.A)](https://medschool.umich.edu/profile/5279/zirui-huang)
 
 -[Fernando Rosas (U.K)](https://www.researchgate.net/profile/Fernando-Rosas-3)
 
 -[Pedro Mediano (U.K)](https://pmediano.gitlab.io/)
 
--[Andrea Luppi (U.K)](https://scholar.google.com/citations?user=oHHFZY4AAAAJ&hl=en)
-
 -[Robin Carhart-Harris (USA)](https://www.carhartharrislab.com)
-
--[Cesar Maldonado (Mexico)](https://sites.google.com/view/cesarmaldonado/home)
 
 -[Joana Cabral (Portugal)](https://sites.google.com/site/cvjoanacabral/)
 
@@ -36,15 +37,6 @@ permalink: /collaborators/
 
 -[Marilyn Gatica (U.K)](https://www.researchgate.net/profile/Marilyn-Gatica-2)
 
--[Jesus Cortes (Spain)](https://jesuscortes.info/)
-
--[Carlos Coronel (U.K)](https://www.researchgate.net/profile/Carlos-Coronel-Oliveros-2)
-
--[Patricio Orio (Chili)](https://www.researchgate.net/profile/Patricio-Orio)
-
--[Maria Jose Escobar (Chili)](http://www.profesores.elo.utfsm.cl/~mjescobar/)
-
--[Adrian Palacios (Chili)](https://cinv.uv.cl/en/members/apalacios/)
 
 
 
